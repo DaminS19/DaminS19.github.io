@@ -1,0 +1,18 @@
+[
+  {
+      "title": "Food Ordering Platform",
+      "description": "Led the development of a food ordering platform with React, Node.js, MongoDB, and TypeScript. Integrated Google Maps for restaurant search and Stripe for payments.",
+      "techStack": ["React", "Node.js", "MongoDB", "Stripe", "Google Maps API"],
+      "image": "images/food-ordering-platform.png",
+      "demoLink": "#",
+      "githubLink": "#"
+  },
+  {
+      "title": "Video Interview Response Platform",
+      "description": "Developed a scalable full-stack web app enabling users to practice interviews via video and receive feedback.",
+      "techStack": ["React", "Node.js", "MongoDB"],
+      "image": "images/interview-platform.png",
+      "demoLink": "#",
+      "githubLink": "#"
+  }
+]
